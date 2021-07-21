@@ -226,8 +226,8 @@ a:focus {
     .navbar {
         position: absolute;
         width: 100%;
-        top: 35px;
-        padding: 20px 60px;
+        top: 0px;
+        padding: 5px 5px;
         background: rgba(0, 0, 0, .1) !important;
         z-index: 9;
     }
