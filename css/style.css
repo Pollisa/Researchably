@@ -273,7 +273,7 @@ a:focus {
     width: 100%;
     margin-bottom: 45px;
     padding: 90px 0;
-    background: #ffc107;
+    background: #fed533;
     overflow: hidden;
 }
 
@@ -1897,7 +1897,7 @@ a:focus {
 
 .footer .container-fluid {
     padding: 80px 0 0 0;
-    background: #ffc107;
+    background: #FED533;
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
