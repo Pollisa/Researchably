@@ -2,7 +2,7 @@
 /********* General CSS *********/
 /*******************************/
 body {
-    color: #797979;
+    color: #000000;
     background: #ffffff;
     font-family: 'Quicksand',Helvetica,Arial,sans-serif';
 }
@@ -458,7 +458,7 @@ a:focus {
     padding: 0 10px;
     position: relative;
     font-size: 16px;
-    font-weight: 600;
+    font-weight: 0;
     background: #ffffff;
 }
 
