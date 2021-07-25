@@ -680,7 +680,6 @@ a:focus {
 .class #class-filter li:hover,
 .class #class-filter li.filter-active {
     background: #343148;
-    color: #F7CAC9;
 }
 
 .class .class-item {
@@ -824,7 +823,6 @@ a:focus {
 .villain #villain-filter li:hover,
 .class #class-filter li.filter-active {
     background: #343148;
-    color: #F7CAC9;
 }
 
 .villain .villain-item {
