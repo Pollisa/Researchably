@@ -667,19 +667,19 @@ a:focus {
     cursor: pointer;
     display: inline-block;
     margin: 5px;
-    padding: 6px 12px;
-    color: #343148;
-    font-size: 14px;
-    font-weight: 400;
+    padding: 10px 16px;
+    color: white;
+    font-size: 17px;
+    font-weight: 600;
     border-radius: 0;
-    background: none;
+    background: #FD582C;
     transition: .3s;
 }
 
 .class #class-filter li:hover,
 .class #class-filter li.filter-active {
-    background: #343148;
-    color: #F7CAC9;
+    background: #d43004;
+    color: white;
 }
 
 .class .class-item {
@@ -822,8 +822,9 @@ a:focus {
 
 .villain #villain-filter li:hover,
 .class #class-filter li.filter-active {
-    background: #d43004;
+    background: #FD582C;
     color: white;
+    border-block-style:black;
 }
 
 .villain .villain-item {
