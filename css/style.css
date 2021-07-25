@@ -673,7 +673,6 @@ a:focus {
     font-weight: 400;
     border-radius: 0;
     background: none;
-    border: 1px solid #343148;
     transition: .3s;
 }
 
@@ -823,8 +822,8 @@ a:focus {
 
 .villain #villain-filter li:hover,
 .class #class-filter li.filter-active {
-    background: #343148;
-     color: #F7CAC9;
+    background: #d43004;
+    color: white;
 }
 
 .villain .villain-item {
